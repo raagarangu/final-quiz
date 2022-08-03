@@ -75,10 +75,6 @@ def questions(a):    #Definition for main part of code which is the questions
         retry = retry.upper() #Makes the retry answer uppercase
     return score, retry #Returns score and retry
 
-def writing_to_file(a,b):  # definition used to write back the data to the file for the users final score 
-    with open('ques.txt', 'a') as writing:
-            writing.write(a + ":" + str(b)+"\n")
-
 def main():   #Definition for the main part of the code
     final_score = 0 #Variable for users final score
     name = intro() #runs intro def and returns name
@@ -91,7 +87,6 @@ def main():   #Definition for the main part of the code
         if final_score <= score:
             final_score = score
     if retry == "NO":   #If the user does not want to retry the quiz it ends the quiz
-        writing_to_file(name,final_score)   #Runs the definition for write to file
         print("Congrats,", name, "your final score was", final_score, "!")     #Final statement
         print("Thanks for playing the Education quiz")
         print("Goodbye...")
