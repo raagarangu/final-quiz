@@ -1,0 +1,25 @@
+What country has the lowest literacy rate in the world?;A.South Sudan|B.Afganistan|C.Niger|D.Burkina Faso|A
+What country has the best literacy rate in the world?;A.Finland|B.Japan|C.South Korea|D.Canada|D
+Which country has the best university?;A.UK|B.Australia|C.India|D.USA|D
+How many children are out of school in the world?;A.268 Million|B.158 Million|C.268 Million|D.306 Million|C
+What continent has the highest percentage of children out of school?;A.Europe|B. Asia|C. Africa|D.Oceania|C
+What country has the best education system in the world?;A.Sweeden|B.UK|C.Switzerland|D.Australia|D
+Which of these methods increases equal opportunities in education?;A.Common schooling of children from different social backgrounds|B. Increasing the economic power of a country|C. Late school enrolment|D.Lower Fees|A
+How many adults in the world are unable to read or write a simple sentence?;A.472 million|B.758 million|C.906 million|D.550 million|B
+How many children in the world that are out-of-school live in areas affected by crises and conflict?;A.500 Thousand|B.5 Million|C.787 thousand|D.37 Million|D
+How many children around the world are missing out on primary school?;A.35 million|B.61 million|C.90 million|D.100 million|B
+How many children and youth around the world are missing out on secondary school?;A.147 million|B.206 million|C.263 million|D.275 million|C
+What percentage of the world’s primary schools does not have a water supply?;A.5%|B.30%|C.43%|D.50%|B
+Which country invests the most in education?;A.Finland|B.South Korea|C.Angola|D.New Zealand|D
+Which country has the most inactive post-secondary educated people in the world?;A.Moldova|B.Morroco|C.Armenia|D.Saudi Arabia|D
+Which country has the highest has the highest-acheving pupils in international test in maths and science?;A.US|B.Germany|C.Singapore|D.Thailand|C
+Which of the following countries pays the highest average salary for teachers?;A.Japan|B.Saudi Arabia|C.UK|D.Spain|B
+Where is the largest school in the world?;A.UK|B.US|C.India|D.China|C
+Which country provides the best access to basic education?;A.Israel|B.South Korea|C.Sweeden|D.Switzerland|B
+Where do children spend the longest amount of time in school?;A.Germany|B.US|C.Qatar|D.Australia|D
+How many girls between the ages 6 and 15 are not in school?;A.5 million|B.62 million|C.26 million|D.83 million|B
+Which country has the most universities in the world?;A.India|B.US|C.China|D.Brazil|A
+Where are girls more likely to be top preformers on science than boys?;A.Sweeden|B.US|C.Finland|D.Kenya|C
+Which country has the most graduates in engineering,manufacturing and construction in the world?;A.Russia|B.US|C.Japan|D.South Korea|A
+In which country do kids spend most amount of time on homework?;A.Russia|B.China|C.Spain|D.Japan|B
+Who said Education is the most powerful weapon which you can use to change the world?;A.Socrates|B.Donald Trump|C.Nelson Mandela|D.Steve Jobs|C
