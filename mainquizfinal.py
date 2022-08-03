@@ -15,7 +15,7 @@ with open('ques.txt') as f:  # Splits the question file into the separate questi
         question_dic[a] = c  # Each individual question, has own answer attached to it
 
 
-def intro():
+def intro(): #printing introduction to begining of the code so this defines user introduction
     name = ""
     print("====****Introduction****=======")
     print("Hey there!\n")
