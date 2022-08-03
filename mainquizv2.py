@@ -88,7 +88,6 @@ def main():  # Definition for the main part of the code
         retry = ""
 
         question_dic = {}
-        with open("questions12.txt") as f:  # Splits the question file into the separate questions in a dictionary
             lines = list(f)
             while len(
                     question_dic) < 15:  # This part of code splits the question file into parts so it can ask the user the questions
@@ -101,7 +100,6 @@ def main():  # Definition for the main part of the code
         if final_score <= score:
             final_score = score
     if retry == "NO":  # If the user does not want to retry the quiz it ends the quiz
-        writing_to_file(name, final_score)  # Runs the definition for write to file
         print("Congrats,", name, "your final score was", final_score, "!")  # Final statement
         print("Thanks for playing the Education quiz")
         print("Goodbye...")
